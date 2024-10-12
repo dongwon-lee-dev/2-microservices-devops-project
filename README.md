@@ -1,6 +1,6 @@
 # Microservice DevOps Project
 
-✨ **Technologies**: AWS Elastic Kubernetes Service (EKS), PostGres, MongoDB, RabbitMQ, Gmail
+✨ **Technologies**: AWS Elastic Kubernetes Service (EKS), Postgres, MongoDB, RabbitMQ, Gmail
 
 # <span style="background-color: cyan;">1) Configure Kubernetes</span>
 ### 1. Create VPC
