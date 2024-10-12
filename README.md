@@ -30,7 +30,7 @@ mongosh mongodb://nasi:nasi1234@54.81.116.127:30005/mp3s?authSource=admin
 ```bash
 psql 'postgres://admin:lee@54.81.116.127:30003/authdb'
 ```
-# <span style="background-color: cyan;">3) Deploy microservices</span>
+# <span style="background-color: cyan;">3) Deploy Microservices</span>
 ### 1. Create a docker image
 
 auth-service / gateway-service / notification-service (enter my email and app password)
@@ -47,7 +47,7 @@ cd manifest
 kubectl apply -f .
 ```
 
-# <span style="background-color: cyan;">4) Using the app</span>
+# <span style="background-color: cyan;">4) Use the app</span>
 ### 1. Get JWT with the login endpoint
 ```bash
 curl -X POST http://54.81.116.127:30002/login -u robertleecnd@gmail.com:lee
