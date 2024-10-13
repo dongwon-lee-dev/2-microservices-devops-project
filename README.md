@@ -2,6 +2,9 @@
 
 ✨ **Technologies**: AWS Elastic Kubernetes Service (EKS), Postgres, MongoDB, RabbitMQ, Gmail
 
+Inspired by N4si
+https://youtu.be/jHlRqQzqB_Y?si=abFfYlIGcOTv9uZi
+
 # <span style="background-color: cyan;">1) Configure Kubernetes</span>
 ### 1. Create VPC
 
